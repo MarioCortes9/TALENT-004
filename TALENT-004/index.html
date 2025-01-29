@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Talent 004</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <h1>Cines San Valero</h1>
+
+    <!-- Contenedor para los filtros y botones -->
+    <div class="controls">
+        <!-- Filtrar por genero, con un select -->
+        <div>
+            <label for="genero">Filtrar por genero:</label> 
+            <select id="genero">
+                <option value="">Todos</option>
+                <option value="Animación">Animación</option>
+                <option value="Acción">Acción</option>
+                <option value="Ciencia Ficción">Ciencia Ficción</option>
+                <option value="Romance">Romance</option>
+            </select>
+        </div>
+
+        <!-- Filtrar por genero, con botones -->
+        <div>
+            <button id="animacion">Animación</button>
+            <button id="accion">Acción</button>
+            <button id="cienciaFiccion">Ciencia Ficción</button>
+            <button id="romance">Romance</button>
+        </div>
+
+        <!-- Buscar por título -->
+        <div>
+            <input type="text" id="buscar" placeholder="Buscar por título">
+            <button id="buscarBtn">Buscar</button>
+        </div>
+
+        <!-- Ordenar por año -->
+        <div>
+            <button id="ordenarAscendente">Ordenar Ascendente</button>
+            <button id="ordenarDescendente">Ordenar Descendente</button>
+        </div>
+    </div>
+
+    <!-- Mensaje cuando no hay películas -->
+    <div id="mensaje"></div> 
+
+    <!-- Contenedor para mostrar las peliculas -->
+    <div id="peliculas"></div>
+
+    <script src="script.js"></script>
+</body>
+</html>

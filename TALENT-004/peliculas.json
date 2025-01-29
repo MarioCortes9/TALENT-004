@@ -1,0 +1,28 @@
+[
+    { "titulo": "El Rey León", "genero": "Animación", "año": 1994, "imagen": "https://m.media-amazon.com/images/M/MV5BNjExYTQwY2EtMDRkYi00ZWIzLTkwZDUtYjVmODYxMDUwNDI5XkEyXkFqcGc@._V1_.jpg" },
+    { "titulo": "Matrix", "genero": "Ciencia Ficción", "año": 1999 , "imagen": "https://pics.filmaffinity.com/Matrix-155050517-large.jpg" },
+    { "titulo": "Titanic", "genero": "Romance", "año": 1997, "imagen": "https://pics.filmaffinity.com/Titanic-321994924-mmed.jpg" },
+    { "titulo": "Avengers: Endgame", "genero": "Acción", "año": 2019,  "imagen": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_FMjpg_UX1000_.jpg" },
+    { "titulo": "Toy Story", "genero": "Animación", "año": 1995, "imagen": "https://m.media-amazon.com/images/M/MV5BZTA3OWVjOWItNjE1NS00NzZiLWE1MjgtZDZhMWI1ZTlkNzYwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" },
+    { "titulo": "Monsters, Inc.", "genero": "Animación", "año": 2001 , "imagen": "https://m.media-amazon.com/images/M/MV5BMTY1NTI0ODUyOF5BMl5BanBnXkFtZTgwNTEyNjQ0MDE@._V1_FMjpg_UX1000_.jpg" },
+    { "titulo": "WALL-E", "genero": "Ciencia Ficción", "año": 2008, "imagen": "https://m.media-amazon.com/images/M/MV5BMjExMTg5OTU0NF5BMl5BanBnXkFtZTcwMjMxMzMzMw@@._V1_FMjpg_UX1000_.jpg" },
+    { "titulo": "La Bella y la Bestia", "genero": "Animación", "año": 1991, "imagen": "https://m.media-amazon.com/images/I/81dQQqVyBFL.jpg" },
+    { "titulo": "Los Increíbles", "genero": "Animación", "año": 2004, "imagen": "https://pics.filmaffinity.com/Los_Increaibles-939387273-large.jpg" },
+    { "titulo": "Star Wars: Un Nuevo Hope", "genero": "Ciencia Ficción", "año": 1977 , "imagen": "https://m.media-amazon.com/images/I/81CIXJxQ3TL._AC_UF1000,1000_QL80_.jpg" },
+    { "titulo": "Aladdin", "genero": "Animación", "año": 1992, "imagen": "https://lumiere-a.akamaihd.net/v1/images/image_9e35a739.jpeg?region=0,0,540,810" },
+    { "titulo": "Jurassic Park", "genero": "Ciencia Ficción", "año": 1993, "imagen": "https://pics.filmaffinity.com/Parque_Juraasico_Jurassic_Park-214895994-large.jpg" },
+    { "titulo": "The Matrix Revolutions", "genero": "Ciencia Ficción", "año": 2003 , "imagen": "https://m.media-amazon.com/images/M/MV5BYjY5Njg5YmMtZGJmMS00Y2Y4LThiNTYtNDE0YjkzNzhhNTYxXkEyXkFqcGc@._V1_.jpg" },
+    { "titulo": "Frozen", "genero": "Animación", "año": 2013, "imagen": "https://play-lh.googleusercontent.com/mrkXPRCK4ak8pWSzpguXG_tYJEqXb2neIV4T3BlpH8oo5e8mycR2ojJs3j81gRiXQ0nWVBjpNzArnuhKJA" },
+    { "titulo": "La La Land", "genero": "Romance", "año": 2016, "imagen": "https://pics.filmaffinity.com/La_ciudad_de_las_estrellas_La_La_Land-262021831-large.jpg" },
+    { "titulo": "Hércules", "genero": "Animación", "año": 1997, "imagen": "https://buscandolamusica.wordpress.com/wp-content/uploads/2017/06/70efd9cc2bec66a09d621dcb001c1d99.jpg" },
+    { "titulo": "Mad Max: Fury Road", "genero": "Acción", "año": 2015, "imagen": "https://pics.filmaffinity.com/mad_max_fury_road-429261909-mmed.jpg" },
+    { "titulo": "Matrix Reloaded", "genero": "Ciencia Ficción", "año": 2003, "imagen": "https://pics.filmaffinity.com/Matrix_Reloaded-153250831-large.jpg" },
+    { "titulo": "Spider-Man: Into the Spider-Verse", "genero": "Animación", "año": 2018, "imagen": "https://m.media-amazon.com/images/I/91F2HZa97jL._AC_UF894,1000_QL80_.jpg" },
+    { "titulo": "El Regreso del Jedi", "genero": "Ciencia Ficción", "año": 1983, "imagen": "https://lamanodelextranjero.com/wp-content/uploads/2013/07/el-retorno-del-jedi.jpg" },
+    { "titulo": "Iron Man", "genero": "Acción", "año": 2008, "imagen": "https://m.media-amazon.com/images/I/61kVKNYa8cL._AC_UF894,1000_QL80_.jpg" },
+    { "titulo": "The Terminator", "genero": "Ciencia Ficción", "año": 1984, "imagen": "https://m.media-amazon.com/images/M/MV5BNDQxMWQyYzItNGU1Zi00YzZhLWI4ZTMtYjNjNjYzNjFkYzQyXkEyXkFqcGc@._V1_.jpg" },
+    { "titulo": "Deadpool", "genero": "Acción", "año": 2016, "imagen": "https://www.ecartelera.com/carteles/9300/9317/005_m.jpg" },
+    { "titulo": "Avatar", "genero": "Ciencia Ficción", "año": 2009 , "imagen": "https://pics.filmaffinity.com/Avatar-993297010-large.jpg" }
+    
+]
+
